@@ -13,6 +13,7 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Angular" width="40px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 <img align="left" alt="Ionic" width="40px" src="https://ionicframework.com/blog/wp-content/uploads/2016/08/ionic-icon.png" />
+<img align="left" alt="Cordova" width="40px" src="https://cordova.apache.org/static/img/artwork/cordova_logo_normal_dark_large.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
