@@ -30,4 +30,4 @@
 </div>
 
 ### Looking to improve 💪 ###
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/pills.gif)
+![Alt Text](https://github.com/CorentinHcdDev/3D/blob/main/pills.gif)
