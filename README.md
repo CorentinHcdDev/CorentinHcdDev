@@ -22,3 +22,4 @@
 <img align="left" alt="ElectronJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />
 <img align="left" alt="ElectronJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
 <img align="left" alt="ElectronJS" width="40px" src="https://pbs.twimg.com/profile_images/1022908662392619008/5_z16TbH_400x400.jpg" />
+<img align="left" alt="ElectronJS" width="40px" src="https://nativescript.org/images/6zv9et8fpnqheyuio1vn.png" />
