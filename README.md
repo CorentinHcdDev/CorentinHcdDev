@@ -24,5 +24,7 @@
 <img align="left" alt="Confluence" width="40px" src="https://pbs.twimg.com/profile_images/1022908662392619008/5_z16TbH_400x400.jpg" />
 <img align="left" alt="NativeScript" width="40px" src="https://nativescript.org/images/6zv9et8fpnqheyuio1vn.png" />
 <img align="left" alt="React" width="40px" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />
-<img align="left" alt="Adobe XD" width="40px" style="padding:20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+<div>
+<img align="left" alt="Adobe XD" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 <img align="left" alt="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />
+</div>
