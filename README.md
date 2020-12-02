@@ -28,3 +28,6 @@
  <img align="left" alt="Adobe XD" width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
  <img align="left" alt="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />
 </div>
+
+### Looking to improve 💪 ###
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/pills.gif)
