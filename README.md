@@ -29,7 +29,6 @@
  <img align="left" alt="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />
 </div>
 <br />
-
-
+<br />
 ### Looking to improve 💪 ###
 ![Alt Text](https://github.com/CorentinHcdDev/3D/blob/main/pills.gif)
