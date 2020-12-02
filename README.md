@@ -21,3 +21,4 @@
 <img align="left" alt="ElectronJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" />
 <img align="left" alt="ElectronJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />
 <img align="left" alt="ElectronJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+<img align="left" alt="ElectronJS" width="40px" src="https://www.aptivous.com/wp-content/uploads/2019/03/Apt-website-icon-confluence.png" />
