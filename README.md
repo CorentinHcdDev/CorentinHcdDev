@@ -31,5 +31,7 @@
 <br />
 <br />
 
+<div>
 ### Looking to improve 💪 ###
 ![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/bestdev.gif)
+</div>
