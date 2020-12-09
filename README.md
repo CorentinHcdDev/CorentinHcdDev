@@ -33,5 +33,5 @@
 <br />
 
 ### Looking to improve 💪 ###
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/bestdev.gif)
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/macbook.gif)
 
