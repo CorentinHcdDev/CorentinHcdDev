@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/3d-presentation.gif)
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/presentation.gif)
 
 ### Hi :wave: I'm Corentin, a Front End Developer, Cat's Father and ~~Proud PS5 owner~~
 
