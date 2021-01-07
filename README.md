@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/fckit.gif)
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/3d-presentation.gif)
 
 ### Hi :wave: I'm Corentin, a Front End Developer, Cat's Father and ~~Proud PS5 owner~~
 
@@ -34,4 +34,5 @@
 
 ### Looking to improve 💪 ###
 ![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/macbook.gif)
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/fckit.gif)
 
