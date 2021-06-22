@@ -33,7 +33,7 @@
 <br />
 
 ### Looking to improve 💪 ###
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/front_lights.png)
+![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/front_meilleur_qualite.png)
+![Alt Text](https://github.com/CorentinHcdDev/3D/blob/main/car_grey_4k.png)
 ![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/macbook.gif)
-![Alt Text](https://github.com/CorentinHcdDev/CorentinHcdDev/blob/main/fckit.gif)
 
